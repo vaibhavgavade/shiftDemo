@@ -30,7 +30,7 @@ Let Metro Bundler run in its own terminal. Open a new terminal from the root of 
 
 # For Android
 
-using npm
+# using npm
 npm run android
 
 OR using Yarn
@@ -38,7 +38,7 @@ yarn android
 
 # For iOS
 
-using npm
+# using npm
 npm run ios
 
 OR using Yarn
